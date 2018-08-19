@@ -1,0 +1,5 @@
+tests
+.travis.yml
+codecov.yml
+README.md
+.gitignore
