@@ -1,5 +1,5 @@
 {
-  "name": "nunjucks-async-filter",
+  "name": "nunjucks-await-filter",
   "version": "0.0.1",
   "description": "A filter to allow async/await functions in Nunjucks templates",
   "main": "index.js",
@@ -12,7 +12,11 @@
   },
   "keywords": [
     "nunjucks",
-    "async"
+    "async",
+    "await",
+    "promises",
+    "templates",
+    "nunjucks filter"
   ],
   "author": "Jason Etcovitch <jasonetco@gmail.com>",
   "license": "MIT",
