@@ -4,8 +4,7 @@
   "description": "A filter to allow async/await functions in Nunjucks templates",
   "main": "index.js",
   "scripts": {
-    "test": "jest && standard",
-    "test:coverage": "jest --coverage"
+    "test": "jest --coverage && standard"
   },
   "repository": {
     "type": "git",
