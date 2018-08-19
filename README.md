@@ -18,13 +18,13 @@ async function getWeather (city) {
 }
 ```
 
-Use an `async` function:
+Use an `async` function in your Nunjucks template:
 
 ```nunjucks
 The weather in Toronto is {{ getWeather('Toronto') | await }}
 ```
 
-That's all there is! `getWeather` will resolve and the result will show in the rendered template.
+And then render the template however you normally would (as an Express view engine, using `env.renderString`, etc). `getWeather` will resolve and the result will show in the rendered template. That's all there is to it!
 
 ## How it works
 
