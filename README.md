@@ -1,6 +1,6 @@
 <h3 align="center">Nunjucks <code>await</code> Filter</h3>
 <p align="center">Brings <code>async/await</code> functions to your <a href="https://mozilla.github.io/nunjucks">Nunjucks</a> templates.<p>
-<p align="center"><a href="https://travis-ci.org/JasonEtco/nunjucks-await-filter"><img src="https://badgen.now.sh/travis/JasonEtco/nunjucks-await-filter" alt="Build Status"></a> <a href="https://codecov.io/gh/JasonEtco/nunjucks-await-filter/"><img src="https://badgen.now.sh/codecov/c/github/JasonEtco/nunjucks-await-filter" alt="Codecov"></a></p>
+<p align="center"><a href="https://npmjs.com/package/nunjucks-await-filter"><img src="https://badgen.net/npm/v/nunjucks-await-filter" alt="NPM"></a> <a href="https://travis-ci.org/JasonEtco/nunjucks-await-filter"><img src="https://badgen.now.sh/travis/JasonEtco/nunjucks-await-filter" alt="Build Status"></a> <a href="https://codecov.io/gh/JasonEtco/nunjucks-await-filter/"><img src="https://badgen.now.sh/codecov/c/github/JasonEtco/nunjucks-await-filter" alt="Codecov"></a></p>
 
 ## Usage
 
